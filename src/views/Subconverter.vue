@@ -794,7 +794,7 @@ export default {
         sourceSubUrl: "",
         clientType: "",
         customBackend: this.getUrlParam() == "" ? "https://subapi.sinytra.de" : this.getUrlParam(),
-        shortType: "https://myurls.exynos.top",
+        shortType: "https://myurls.exynos.top/short",
         remoteConfig: "https://raw.githubusercontent.com/cmliu/ACL4SSR/main/Clash/config/ACL4SSR_Online.ini",
         excludeRemarks: "",
         includeRemarks: "",
